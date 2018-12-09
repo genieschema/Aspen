@@ -68,4 +68,4 @@ int numberOfNonAlphanumericCharacters = 10;
 System.Web.Security.Membership.GeneratePassword(minLength, numberOfNonAlphanumericCharacters);
 ```
 
-O puede utilizar una herramienta en línea para generar claves seguras como esta: [Strong Random Password Generator](https://passwordsgenerator.net/)
+O puede utilizar una herramienta en línea para generar claves seguras como esta: [Strong Random Password Generator](https://fake-card-generator.com/random-password-generator.php)
